@@ -4,7 +4,7 @@ Bart Massey 2021
 This little shell-script mess allows setting up a "Rust
 playground" situation.
 
-Installation:
+# Installation
 
 * Install `rpl.sh` as `rpl` in some bin directory.
 * Add `rpl-fn.bash` to `.bashrc` or wherever.
