@@ -8,3 +8,8 @@ Installation:
 
 * Install `rpl.sh` as `rpl` in some bin directory.
 * Add `rpl-fn.bash` to `.bashrc` or wherever.
+
+# License
+
+This work is licensed under the "MIT License". Please see the file
+`LICENSE.txt` in this distribution for license terms.
