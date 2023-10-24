@@ -1,4 +1,9 @@
 #!/bin/sh
+# Local "Rust Playground"
+# Bart Massey 2021
+# Requires `cargo-add` and something like the shell function
+# `rpl` available at https://github.com/BartMassey/rpl/rpl-fn.bash .
+
 USAGE="usage: rpl <--bin|--lib> <crate-name> [<dep-crate> ...]"
 if [ $# -eq 0 ]
 then
